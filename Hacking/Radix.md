@@ -1,0 +1,1 @@
+Numeric system which represent data in number system
