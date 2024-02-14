@@ -1,5 +1,5 @@
 What's reverse engineer ?
-Technique to decompile and reverse it to something that we can [[manipulate]]
+Technique to decompile and reverse it to something that we can [[manipulate]] (handle or control)
 At least you can see the source code and understand what the program do
 
 

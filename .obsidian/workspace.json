@@ -13,20 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking/Number systems.md",
+                "file": "Computer memory/Note.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
+            "id": "1a9b59f158fec3ed",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "74b68c5c87b0dd75",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -108,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking/Number systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking/Number systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hacking/Number systems.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,31 +171,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9286fff83f949214",
+  "active": "1a9b59f158fec3ed",
   "lastOpenFiles": [
-    "Hacking",
-    "Hacking/opcodes.md",
+    "Computer memory/Note.md",
+    "IT PRO",
+    "Computer memory/Sequential access.md",
+    "Computer memory/Pasted image 20240128205404.png",
+    "Computer memory/Random access.md",
+    "Computer memory/img/Pasted image 20240128205320.png",
+    "Computer memory/img/Pasted image 20240128205237.png",
+    "Computer memory/img",
+    "Hacking/Main Reverse Engineer.md",
+    "Computer memory",
+    "Hacking/manipulate.md",
     "Hacking/Decompiling vs Disassembling.md",
-    "Hacking/function epilogue.md",
-    "Hacking/IDA (and friends).md",
-    "Hacking/Reverse Engineer.md",
-    "Hacking/img/Pasted image 20231106084916.png",
+    "Hacking/Register.md",
     "Hacking/Stack Basics.md",
+    "Hacking/function epilogue.md",
+    "RE/Type of RE.md",
+    "Hacking/Number systems.md",
+    "RE",
+    "Hacking/Radix.md",
+    "Hacking/IDA (and friends).md",
+    "Hacking/opcodes.md",
+    "Hacking/function prologue.md",
+    "C/Machine Code.md",
+    "C",
+    "Hacking",
+    "Hacking/img/Pasted image 20231106084916.png",
     "Hacking/img/Pasted image 20231106102140.png",
     "Hacking/img/Pasted image 20231106102136.png",
     "Hacking/img/Pasted image 20231106102120.png",
-    "Hacking/Number systems.md",
-    "Hacking/function prologue.md",
     "Hacking/img/Pasted image 20231106081032.png",
     "Hacking/img/Pasted image 20231106083114.png",
-    "Hacking/Register.md",
-    "Hacking/manipulate.md",
-    "Hacking/Radix.md",
     "Hacking/img/Pasted image 20231106020639.png",
-    "Hacking/img/godbolt.png",
     "Hacking/img",
     "Untitled.canvas",
-    "Hacking/img/demo-convert.png",
     "Redix.md"
   ]
 }
