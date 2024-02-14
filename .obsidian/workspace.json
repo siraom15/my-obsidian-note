@@ -4,51 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1541662b85e0740c",
+        "id": "339b72e21bb0e0af",
         "type": "tabs",
         "children": [
           {
-            "id": "83d4f5bace557848",
+            "id": "150386a0c0024d79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer memory/Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a9b59f158fec3ed",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "74b68c5c87b0dd75",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "732e3fa52fb6ad2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hacking/Stack Basics.md",
+                "file": "IT PRO/1 Week.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 251.5
   },
   "right": {
     "id": "6317d5961e35f014",
@@ -114,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT PRO/1 Week.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IT PRO/1 Week.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,10 +124,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IT PRO/1 Week.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,8 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a9b59f158fec3ed",
+  "active": "150386a0c0024d79",
   "lastOpenFiles": [
+    "IT PRO/img/Pasted image 20240214192032.png",
+    "IT PRO/1 Week.md",
+    "IT PRO/img/Pasted image 20240214192042.png",
+    "IT PRO/Super Skill.md",
+    "IT PRO/img/Pasted image 20240214191805.png",
+    "IT PRO/img/Pasted image 20240214182604.png",
+    "IT PRO/img/Pasted image 20240214182557.png",
+    "IT PRO/img",
+    "IT PRO/img/Pasted image 20240214180413.png",
     "Computer memory/Note.md",
     "IT PRO",
     "Computer memory/Sequential access.md",
@@ -199,12 +184,6 @@
     "C",
     "Hacking",
     "Hacking/img/Pasted image 20231106084916.png",
-    "Hacking/img/Pasted image 20231106102140.png",
-    "Hacking/img/Pasted image 20231106102136.png",
-    "Hacking/img/Pasted image 20231106102120.png",
-    "Hacking/img/Pasted image 20231106081032.png",
-    "Hacking/img/Pasted image 20231106083114.png",
-    "Hacking/img/Pasted image 20231106020639.png",
     "Hacking/img",
     "Untitled.canvas",
     "Redix.md"
